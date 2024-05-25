@@ -1,7 +1,7 @@
 Overview
 ========
 
-Project Name: Snowflake-DBT-Airflow-ETL
+Project Name: Snowflake-DBT-Airflow-ELT
 
 
 Description
