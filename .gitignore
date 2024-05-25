@@ -1,4 +1,5 @@
 
-dbt_pipeline/target/
-dbt_pipeline/dbt_packages/
+dags/dbt/dbt_pipeline/target/
+dags/dbt/dbt_pipeline/dbt_packages/
 logs/
+.env
